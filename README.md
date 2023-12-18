@@ -1,6 +1,6 @@
 # Benchmarking signal detection and denoising methods in the time-frequency plane
 
-## Published benchmarks
+## Published benchmark
 
 | Task | Description | Link |
 |----------|----------|----------|
